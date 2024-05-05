@@ -10,6 +10,7 @@
 		{"id":"d6b708de8fc97e1a","type":"file","file":"Отмена индексации файла.md","x":400,"y":-3113,"width":553,"height":655,"color":"1"},
 		{"id":"64f97e88f909506b","type":"file","file":"Отмена изменений в файле.md","x":1040,"y":-2659,"width":742,"height":403,"color":"1"},
 		{"id":"f6b91e8573668e73","type":"file","file":"Создание Git-репозитория.md","x":-920,"y":-1180,"width":480,"height":420,"color":"4"},
+
 		{"id":"08b9d65202f16c90","type":"file","file":"Первоначальная настройка Git.md","x":-3760,"y":-1180,"width":520,"height":430,"color":"4"},
 		{"id":"e8f6bcf26d52a639","x":-1490,"y":340,"width":520,"height":300,"color":"6","type":"file","file":"Переключение между ветками.md"},
 		{"id":"420155b8476dd4e4","x":2000,"y":-1540,"width":880,"height":1140,"color":"4","type":"file","file":"Ветвление в Git.md"},
@@ -17,6 +18,7 @@
 		{"id":"e23fad383cb3f0b6","type":"file","file":"Работа с удалёнными репозиториями.md","x":4560,"y":-1290,"width":880,"height":640,"color":"4"},
 		{"id":"990672a495b378e8","x":1080,"y":80,"width":1126,"height":401,"color":"1","type":"file","file":"Удаление локальной ветки.md"},
 		{"id":"0fbdbf8eb0313cf5","x":2350,"y":520,"width":1060,"height":280,"color":"6","type":"file","file":"Переименовение ветки.md"}
+
 	],
 	"edges":[
 		{"id":"337230073869a73f","fromNode":"08b9d65202f16c90","fromSide":"right","toNode":"f6b91e8573668e73","toSide":"left","color":"4"},
@@ -28,6 +30,7 @@
 		{"id":"c6db22fef1e34dc8","fromNode":"f6b91e8573668e73","fromSide":"top","toNode":"d6b708de8fc97e1a","toSide":"bottom","color":"1","label":"Обратная операция"},
 		{"id":"66934bcb58327d8e","fromNode":"f6b91e8573668e73","fromSide":"top","toNode":"64f97e88f909506b","toSide":"bottom","color":"1","label":"Обратная операция"},
 		{"id":"b6a7267609ca1ca0","fromNode":"f6b91e8573668e73","fromSide":"top","toNode":"8018fdfe8ebeda4f","toSide":"bottom","color":"2","label":"Альтернатива (NEW GIT)"},
+
 		{"id":"7e5259ef54e56d36","fromNode":"f6b91e8573668e73","fromSide":"bottom","toNode":"848313972024dfe7","toSide":"top","color":"6"},
 		{"id":"54b3f3e49bb3d059","fromNode":"f6b91e8573668e73","fromSide":"right","toNode":"420155b8476dd4e4","toSide":"left","color":"4"},
 		{"id":"b5b562fbdb95bc0a","fromNode":"420155b8476dd4e4","fromSide":"bottom","toNode":"990672a495b378e8","toSide":"top","color":"1"},

@@ -15,12 +15,14 @@
               "state": {
                 "file": "Git.canvas",
                 "viewState": {
+
                   "x": 2115.9403609526466,
                   "y": 580.6358155793092,
                   "zoom": -0.5566666666666646
                 }
               }
             }
+
           }
         ]
       }
@@ -88,7 +90,9 @@
             "state": {
               "type": "backlink",
               "state": {
+
                 "file": "Git.canvas",
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +109,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+
                 "file": "Git.canvas",
+
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "state": {
               "type": "outline",
               "state": {
+
                 "file": "Git.canvas"
+
               }
             }
           }
@@ -149,7 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
+
   "active": "671e0d3bdf58ac01",
+
   "lastOpenFiles": [
     "Переименовение ветки.md",
     "Объединение веток.md",
