@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4c24a8041fe8f2d9",
+        "id": "15a4b56ee57d8153",
         "type": "tabs",
         "children": [
           {
-            "id": "86f3e35642217329",
+            "id": "1f3644fc7aaa152c",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "GitHub/Git.canvas",
                 "viewState": {
-                  "x": 1771.9979963288422,
-                  "y": -841.2036700442561,
-                  "zoom": -3.0866666666666647
+                  "x": 1682.7847035765187,
+                  "y": -1308.118551455119,
+                  "zoom": -2.2216114158526423
                 }
               }
             }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cac5324214a6115c",
@@ -149,8 +150,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86f3e35642217329",
+  "active": "1f3644fc7aaa152c",
   "lastOpenFiles": [
+    "GitHub/Удалить удаленный репозиторий.md",
+    "Untitled.md",
+    "GitHub/Git.canvas",
     "GitHub/Переключение между ветками.md",
     "GitHub/Переименовение ветки.md",
     "GitHub/Первоначальная настройка Git.md",
@@ -161,14 +165,12 @@
     "GitHub/Как переделать коммит.md",
     "GitHub/Генерация SSH ключа в Linux.md",
     "GitHub/Ветвление в Git.md",
-    "GitHub/Git.canvas",
     "GitHub/Удаление файлов.md",
     "GitHub/Определение состояния файлов.md",
     "GitHub/Просмотр истории коммитов.md",
     "GitHub",
     "GI",
     "Инициализация репозитория.md",
-    "Untitled.md",
     "GitHub/Удаление локальной ветки.md",
     "GitHub/Работа с удалёнными репозиториями.md",
     "GitHub/Три состояния Git.md",
