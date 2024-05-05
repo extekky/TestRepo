@@ -4,38 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "edb41e1846f3a46a",
+        "id": "d8746766384dd686",
         "type": "tabs",
         "children": [
           {
-            "id": "ed8174e86afd343d",
+            "id": "671e0d3bdf58ac01",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Git.canvas",
                 "viewState": {
-                  "x": 2908.5922061034553,
-                  "y": -812.0583810055934,
-                  "zoom": -0.4000000000000006
+                  "x": 1637.6161387475852,
+                  "y": -101.10525774392659,
+                  "zoom": -2.4800000000000004
                 }
               }
             }
           },
           {
-            "id": "0248675c7660d88d",
+            "id": "c90cb105b9946a6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Генерация SSH ключа в Linux.md",
+                "file": "Объединение веток.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Генерация SSH ключа в Linux.md",
+                "file": "Git.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Генерация SSH ключа в Linux.md",
+                "file": "Git.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Генерация SSH ключа в Linux.md"
+                "file": "Git.canvas"
               }
             }
           }
@@ -162,21 +161,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0248675c7660d88d",
+  "active": "671e0d3bdf58ac01",
   "lastOpenFiles": [
+    "Объединение веток.md",
     "Git.canvas",
+    "Переключение между ветками.md",
+    "Переименовение ветки.md",
+    "Удаление локальной ветки.md",
+    "Ветвление в Git.md",
+    "Untitled.md",
+    "Инициализация репозитория.md",
+    "Как переделать коммит.md",
     "Генерация SSH ключа в Linux.md",
+    "Определение состояния файлов.md",
     "Работа с удалёнными репозиториями.md",
     "Отмена действий с помощью git restore.md",
     "Отмена изменений в файле.md",
     "Отмена индексации файла.md",
-    "Как переделать коммит.md",
-    "Определение состояния файлов.md",
     "Три состояния Git.md",
     "Просмотр истории коммитов.md",
     "Удаление репозитория Git.md",
     "Удаление файлов.md",
-    "Инициализация репозитория.md",
     "Создание Git-репозитория.md",
     "Первоначальная настройка Git.md"
   ]
