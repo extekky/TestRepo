@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d8746766384dd686",
+        "id": "4c24a8041fe8f2d9",
         "type": "tabs",
         "children": [
           {
-            "id": "671e0d3bdf58ac01",
+            "id": "86f3e35642217329",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Git.canvas",
+                "file": "GitHub/Git.canvas",
                 "viewState": {
-                  "x": 2115.9403609526466,
-                  "y": 580.6358155793092,
-                  "zoom": -0.5566666666666646
+                  "x": 1331.205833175791,
+                  "y": -743.4498619204986,
+                  "zoom": -0.71
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.canvas",
+                "file": "GitHub/Git.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.canvas",
+                "file": "GitHub/Git.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.canvas"
+                "file": "GitHub/Git.canvas"
               }
             }
           }
@@ -149,28 +149,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "671e0d3bdf58ac01",
+  "active": "86f3e35642217329",
   "lastOpenFiles": [
-    "Переименовение ветки.md",
-    "Объединение веток.md",
-    "Git.canvas",
-    "Переключение между ветками.md",
-    "Удаление локальной ветки.md",
-    "Ветвление в Git.md",
-    "Untitled.md",
+    "GitHub/Переключение между ветками.md",
+    "GitHub/Переименовение ветки.md",
+    "GitHub/Первоначальная настройка Git.md",
+    "GitHub/Отмена индексации файла.md",
+    "GitHub/Отмена изменений в файле.md",
+    "GitHub/Отмена действий с помощью git restore.md",
+    "GitHub/Объединение веток.md",
+    "GitHub/Как переделать коммит.md",
+    "GitHub/Генерация SSH ключа в Linux.md",
+    "GitHub/Ветвление в Git.md",
+    "GitHub/Git.canvas",
+    "GitHub/Удаление файлов.md",
+    "GitHub/Определение состояния файлов.md",
+    "GitHub/Просмотр истории коммитов.md",
+    "GitHub",
+    "GI",
     "Инициализация репозитория.md",
-    "Как переделать коммит.md",
-    "Генерация SSH ключа в Linux.md",
-    "Определение состояния файлов.md",
-    "Работа с удалёнными репозиториями.md",
-    "Отмена действий с помощью git restore.md",
-    "Отмена изменений в файле.md",
-    "Отмена индексации файла.md",
-    "Три состояния Git.md",
-    "Просмотр истории коммитов.md",
-    "Удаление репозитория Git.md",
-    "Удаление файлов.md",
-    "Создание Git-репозитория.md",
-    "Первоначальная настройка Git.md"
+    "Untitled.md",
+    "GitHub/Удаление локальной ветки.md",
+    "GitHub/Работа с удалёнными репозиториями.md",
+    "GitHub/Три состояния Git.md",
+    "GitHub/Удаление репозитория Git.md",
+    "GitHub/Создание Git-репозитория.md"
   ]
 }
