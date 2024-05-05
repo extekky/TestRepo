@@ -1,3 +1,7 @@
+---
+tags:
+  - GIT
+---
 Указываем имя и адрес электронной почты
 ```bash
 $ git config --global user.name "John Doe"
@@ -9,8 +13,7 @@ $ git config --global user.email johndoe@example.com
 $ git config --global init.defaultBranch main
 ```
 
-Проверка настроек
+Проверка настроек 
 ```bash
 $ git config --list
 ```
-

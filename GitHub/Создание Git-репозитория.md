@@ -1,4 +1,9 @@
+---
+tags:
+  - GIT
+---
 Инициализация репозитория в текущем каталоге
+
 ```bash
 $ git init
 ```
@@ -10,6 +15,7 @@ $ git add .
 ```
 
 Зафиксируем это и напишем комметарий
+
 ```bash
 $ git commit -m 'Initial project version'
 ```

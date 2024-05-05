@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "15a4b56ee57d8153",
+        "id": "8e0fe2443a1b01e0",
         "type": "tabs",
         "children": [
           {
-            "id": "1f3644fc7aaa152c",
+            "id": "b3f0c0129d66c6b5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "GitHub/Git.canvas",
                 "viewState": {
-                  "x": 1682.7847035765187,
-                  "y": -1308.118551455119,
-                  "zoom": -2.2216114158526423
+                  "x": 1150.830151883732,
+                  "y": -1588.2995320838377,
+                  "zoom": -2.8
                 }
               }
             }
@@ -68,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,31 +151,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f3644fc7aaa152c",
+  "active": "b3f0c0129d66c6b5",
   "lastOpenFiles": [
-    "GitHub/Удалить удаленный репозиторий.md",
-    "Untitled.md",
     "GitHub/Git.canvas",
-    "GitHub/Переключение между ветками.md",
-    "GitHub/Переименовение ветки.md",
-    "GitHub/Первоначальная настройка Git.md",
+    "GitHub/Получить обновления из удаленного репозитория.md",
+    "GitHub/Ветвление в Git.md",
     "GitHub/Отмена индексации файла.md",
-    "GitHub/Отмена изменений в файле.md",
+    "GitHub/Связь между remote и local ветками.md",
+    "GitHub/Удаление локальной ветки.md",
+    "GitHub/Генерация SSH ключа в Linux.md",
+    "GitHub/Загрузить репозиторий на GitHub.md",
+    "GitHub/Работа с удалёнными репозиториями.md",
+    "GitHub/Просмотр истории коммитов.md",
     "GitHub/Отмена действий с помощью git restore.md",
+    "GitHub/Переключение между ветками.md",
+    "GitHub/Удаление файлов.md",
     "GitHub/Объединение веток.md",
     "GitHub/Как переделать коммит.md",
-    "GitHub/Генерация SSH ключа в Linux.md",
-    "GitHub/Ветвление в Git.md",
-    "GitHub/Удаление файлов.md",
     "GitHub/Определение состояния файлов.md",
-    "GitHub/Просмотр истории коммитов.md",
+    "GitHub/Отмена изменений в файле.md",
+    "GitHub/Три состояния Git.md",
+    "GitHub/Переименовение ветки.md",
+    "GitHub/Удалить удаленный репозиторий.md",
+    "GitHub/Удаление репозитория Git.md",
+    "GitHub/Создание Git-репозитория.md",
+    "GitHub/Первоначальная настройка Git.md",
     "GitHub",
     "GI",
-    "Инициализация репозитория.md",
-    "GitHub/Удаление локальной ветки.md",
-    "GitHub/Работа с удалёнными репозиториями.md",
-    "GitHub/Три состояния Git.md",
-    "GitHub/Удаление репозитория Git.md",
-    "GitHub/Создание Git-репозитория.md"
+    "Инициализация репозитория.md"
   ]
 }
