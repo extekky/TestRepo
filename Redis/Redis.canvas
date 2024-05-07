@@ -2,18 +2,18 @@
 	"nodes":[
 		{"id":"5c61bdba6384200d","type":"file","file":"Redis/Команды.md","x":2960,"y":-1020,"width":1280,"height":940,"color":"4"},
 		{"id":"7cfb37356592d2f7","type":"file","file":"Redis/Redis и Python (Пример кода).md","x":560,"y":-1960,"width":880,"height":420,"color":"6"},
-		{"id":"38766236ed45f21a","type":"file","file":"Redis/Что такое Redis.md","x":-439,"y":-720,"width":540,"height":340,"color":"4"},
-		{"id":"4d197c712a48d969","type":"file","file":"Redis/Упорядоченное множество (Sorted set).md","x":40,"y":2420,"width":520,"height":500,"color":"4"},
 		{"id":"58688d6e393ca44a","type":"file","file":"Redis/Структура HyperLogLog (HyperLogLog).md","x":41,"y":860,"width":499,"height":420,"color":"4"},
 		{"id":"127a455f5ac499bf","type":"file","file":"Redis/Битовый массив (Bitmap).md","x":640,"y":1350,"width":700,"height":430,"color":"4"},
 		{"id":"357f5f069153fb15","type":"file","file":"Redis/Поток (Stream).md","x":640,"y":1960,"width":700,"height":360,"color":"4"},
-		{"id":"bd13ebee1ddc121d","type":"file","file":"Redis/Список (List).md","x":-1260,"y":1500,"width":400,"height":420,"color":"4"},
-		{"id":"f8d1b2fb50e0133e","type":"file","file":"Redis/Хеш-таблица (Hash).md","x":-1180,"y":2220,"width":400,"height":400,"color":"4"},
-		{"id":"9b13813dabf65202","type":"file","file":"Redis/Строка.md","x":-740,"y":860,"width":400,"height":400,"color":"4"},
-		{"id":"746caff43cdb4667","type":"file","file":"Redis/Множество (Set).md","x":-540,"y":2540,"width":400,"height":420,"color":"4"},
-		{"id":"96d11516ade3a3b1","type":"file","file":"Redis/Типы данных.md","x":-420,"y":1620,"width":461,"height":400,"color":"2"},
-		{"id":"f4c8e862bd4e70ef","type":"file","file":"Redis/Строки.md","x":-1700,"y":400,"width":400,"height":400,"color":"6"},
-		{"id":"98ece93f31269d8b","type":"file","file":"Redis/Redis CLI.md","x":1320,"y":-902,"width":1100,"height":705,"color":"4"}
+		{"id":"f8d1b2fb50e0133e","type":"file","file":"Redis/Хеш-таблица (Hash).md","x":-1180,"y":2220,"width":400,"height":860,"color":"4"},
+		{"id":"96d11516ade3a3b1","type":"file","file":"Redis/Типы данных.md","x":-420,"y":1620,"width":461,"height":380,"color":"2"},
+		{"id":"f4c8e862bd4e70ef","type":"file","file":"Redis/Удобства со строками.md","x":-1700,"y":400,"width":700,"height":320,"color":"6"},
+		{"id":"98ece93f31269d8b","type":"file","file":"Redis/Redis CLI.md","x":1320,"y":-902,"width":1100,"height":705,"color":"4"},
+		{"id":"9b13813dabf65202","type":"file","file":"Redis/Строка.md","x":-880,"y":920,"width":520,"height":500,"color":"4"},
+		{"id":"38766236ed45f21a","type":"file","file":"Redis/Что такое Redis.md","x":-459,"y":-719,"width":540,"height":359,"color":"4"},
+		{"id":"bd13ebee1ddc121d","type":"file","file":"Redis/Список (List).md","x":-1380,"y":1420,"width":400,"height":680,"color":"4"},
+		{"id":"746caff43cdb4667","type":"file","file":"Redis/Множество (Set).md","x":-580,"y":2520,"width":580,"height":960,"color":"4"},
+		{"id":"4d197c712a48d969","type":"file","file":"Redis/Упорядоченное множество (Sorted set).md","x":240,"y":2500,"width":620,"height":680,"color":"4"}
 	],
 	"edges":[
 		{"id":"69f2b040073ecb61","fromNode":"38766236ed45f21a","fromSide":"right","toNode":"98ece93f31269d8b","toSide":"left","color":"4","label":"Перейдем к работе в Linux"},

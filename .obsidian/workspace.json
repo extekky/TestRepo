@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2562836e7806f4cc",
+        "id": "8d1e19e481387532",
         "type": "tabs",
         "children": [
           {
-            "id": "c77e0476751d172a",
+            "id": "e3efc37abdd3d8b3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Redis/Redis.canvas",
+                "viewState": {
+                  "x": -109.74879415862955,
+                  "y": -426.2992049853865,
+                  "zoom": 0.32583183810580474
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Redis/Redis.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Redis/Redis.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Redis/Redis.canvas"
+              }
             }
           }
         ]
@@ -138,38 +149,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c77e0476751d172a",
+  "active": "e3efc37abdd3d8b3",
   "lastOpenFiles": [
-    "Linux/Система прав в ОС семейства Linux.md",
-    "Linux",
     "Redis/Redis CLI.md",
+    "Redis/Строка.md",
+    "Redis/Список (List).md",
+    "Redis/Хеш-таблица (Hash).md",
+    "Redis/Упорядоченное множество (Sorted set).md",
+    "Redis/Множество (Set).md",
+    "Redis/Структура HyperLogLog (HyperLogLog).md",
+    "Redis/Что такое Redis.md",
+    "Redis/Redis.canvas",
+    "2024-05-07.md",
+    "Untitled.md",
+    "Redis/Удобства со строками.md",
+    "Linux/Система прав в ОС семейства Linux.md",
+    "GitHub/Git.canvas",
+    "Linux",
     "GitHub/Удаление локальной ветки.md",
     "GitHub/Загрузить репозиторий на GitHub.md",
     "Redis/Команды.md",
-    "Redis/Множество (Set).md",
     "Redis/Поток (Stream).md",
-    "Redis/Список (List).md",
-    "Redis/Строка.md",
-    "Redis/Строки.md",
-    "Redis/Структура HyperLogLog (HyperLogLog).md",
     "Redis/Типы данных.md",
-    "Redis/Упорядоченное множество (Sorted set).md",
-    "Redis/Хеш-таблица (Hash).md",
-    "Redis/Что такое Redis.md",
     "Redis/Битовый массив (Bitmap).md",
-    "Redis/Redis.canvas",
     "Redis/Redis и Python (Пример кода).md",
     "GitHub/Генерация SSH ключа в Linux.md",
     "Битовое поле (Bitfield).md",
-    "GitHub/Git.canvas",
     "Redis",
     "GitHub/Ветвление в Git.md",
     "2024-05-06.md",
     "GitHub/Определение состояния файлов.md",
     "GitHub/Отмена индексации файла.md",
-    "GitHub/Переключение между ветками.md",
-    "GitHub/Создание Git-репозитория.md",
-    "GitHub/Получить обновления из удаленного репозитория.md",
     "GitHub",
     "GI"
   ]
