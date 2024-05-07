@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e0fe2443a1b01e0",
+        "id": "2562836e7806f4cc",
         "type": "tabs",
         "children": [
           {
-            "id": "b3f0c0129d66c6b5",
+            "id": "c77e0476751d172a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "GitHub/Git.canvas",
-                "viewState": {
-                  "x": 1150.830151883732,
-                  "y": -1588.2995320838377,
-                  "zoom": -2.8
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -68,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cac5324214a6115c",
@@ -90,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/Git.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/Git.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GitHub/Git.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,33 +138,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3f0c0129d66c6b5",
+  "active": "c77e0476751d172a",
   "lastOpenFiles": [
-    "GitHub/Git.canvas",
-    "GitHub/Получить обновления из удаленного репозитория.md",
-    "GitHub/Ветвление в Git.md",
-    "GitHub/Отмена индексации файла.md",
-    "GitHub/Связь между remote и local ветками.md",
+    "Linux/Система прав в ОС семейства Linux.md",
+    "Linux",
+    "Redis/Redis CLI.md",
     "GitHub/Удаление локальной ветки.md",
-    "GitHub/Генерация SSH ключа в Linux.md",
     "GitHub/Загрузить репозиторий на GitHub.md",
-    "GitHub/Работа с удалёнными репозиториями.md",
-    "GitHub/Просмотр истории коммитов.md",
-    "GitHub/Отмена действий с помощью git restore.md",
-    "GitHub/Переключение между ветками.md",
-    "GitHub/Удаление файлов.md",
-    "GitHub/Объединение веток.md",
-    "GitHub/Как переделать коммит.md",
+    "Redis/Команды.md",
+    "Redis/Множество (Set).md",
+    "Redis/Поток (Stream).md",
+    "Redis/Список (List).md",
+    "Redis/Строка.md",
+    "Redis/Строки.md",
+    "Redis/Структура HyperLogLog (HyperLogLog).md",
+    "Redis/Типы данных.md",
+    "Redis/Упорядоченное множество (Sorted set).md",
+    "Redis/Хеш-таблица (Hash).md",
+    "Redis/Что такое Redis.md",
+    "Redis/Битовый массив (Bitmap).md",
+    "Redis/Redis.canvas",
+    "Redis/Redis и Python (Пример кода).md",
+    "GitHub/Генерация SSH ключа в Linux.md",
+    "Битовое поле (Bitfield).md",
+    "GitHub/Git.canvas",
+    "Redis",
+    "GitHub/Ветвление в Git.md",
+    "2024-05-06.md",
     "GitHub/Определение состояния файлов.md",
-    "GitHub/Отмена изменений в файле.md",
-    "GitHub/Три состояния Git.md",
-    "GitHub/Переименовение ветки.md",
-    "GitHub/Удалить удаленный репозиторий.md",
-    "GitHub/Удаление репозитория Git.md",
+    "GitHub/Отмена индексации файла.md",
+    "GitHub/Переключение между ветками.md",
     "GitHub/Создание Git-репозитория.md",
-    "GitHub/Первоначальная настройка Git.md",
+    "GitHub/Получить обновления из удаленного репозитория.md",
     "GitHub",
-    "GI",
-    "Инициализация репозитория.md"
+    "GI"
   ]
 }

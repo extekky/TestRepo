@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"5c61bdba6384200d","type":"file","file":"Redis/Команды.md","x":2960,"y":-1020,"width":1280,"height":940,"color":"4"},
+		{"id":"7cfb37356592d2f7","type":"file","file":"Redis/Redis и Python (Пример кода).md","x":560,"y":-1960,"width":880,"height":420,"color":"6"},
+		{"id":"38766236ed45f21a","type":"file","file":"Redis/Что такое Redis.md","x":-439,"y":-720,"width":540,"height":340,"color":"4"},
+		{"id":"4d197c712a48d969","type":"file","file":"Redis/Упорядоченное множество (Sorted set).md","x":40,"y":2420,"width":520,"height":500,"color":"4"},
+		{"id":"58688d6e393ca44a","type":"file","file":"Redis/Структура HyperLogLog (HyperLogLog).md","x":41,"y":860,"width":499,"height":420,"color":"4"},
+		{"id":"127a455f5ac499bf","type":"file","file":"Redis/Битовый массив (Bitmap).md","x":640,"y":1350,"width":700,"height":430,"color":"4"},
+		{"id":"357f5f069153fb15","type":"file","file":"Redis/Поток (Stream).md","x":640,"y":1960,"width":700,"height":360,"color":"4"},
+		{"id":"bd13ebee1ddc121d","type":"file","file":"Redis/Список (List).md","x":-1260,"y":1500,"width":400,"height":420,"color":"4"},
+		{"id":"f8d1b2fb50e0133e","type":"file","file":"Redis/Хеш-таблица (Hash).md","x":-1180,"y":2220,"width":400,"height":400,"color":"4"},
+		{"id":"9b13813dabf65202","type":"file","file":"Redis/Строка.md","x":-740,"y":860,"width":400,"height":400,"color":"4"},
+		{"id":"746caff43cdb4667","type":"file","file":"Redis/Множество (Set).md","x":-540,"y":2540,"width":400,"height":420,"color":"4"},
+		{"id":"96d11516ade3a3b1","type":"file","file":"Redis/Типы данных.md","x":-420,"y":1620,"width":461,"height":400,"color":"2"},
+		{"id":"f4c8e862bd4e70ef","type":"file","file":"Redis/Строки.md","x":-1700,"y":400,"width":400,"height":400,"color":"6"},
+		{"id":"98ece93f31269d8b","type":"file","file":"Redis/Redis CLI.md","x":1320,"y":-902,"width":1100,"height":705,"color":"4"}
+	],
+	"edges":[
+		{"id":"69f2b040073ecb61","fromNode":"38766236ed45f21a","fromSide":"right","toNode":"98ece93f31269d8b","toSide":"left","color":"4","label":"Перейдем к работе в Linux"},
+		{"id":"6680e4e486c6f30f","fromNode":"38766236ed45f21a","fromSide":"bottom","toNode":"96d11516ade3a3b1","toSide":"top","color":"2","label":"Важно"},
+		{"id":"fd2625fceb3dbc94","fromNode":"96d11516ade3a3b1","fromSide":"right","toNode":"58688d6e393ca44a","toSide":"bottom","color":"4"},
+		{"id":"0c92456426f10851","fromNode":"96d11516ade3a3b1","fromSide":"right","toNode":"127a455f5ac499bf","toSide":"left","color":"4"},
+		{"id":"a3383bc8a97d9e1f","fromNode":"96d11516ade3a3b1","fromSide":"left","toNode":"bd13ebee1ddc121d","toSide":"right","color":"4"},
+		{"id":"648bb0bc27520ad9","fromNode":"96d11516ade3a3b1","fromSide":"left","toNode":"f8d1b2fb50e0133e","toSide":"right","color":"4"},
+		{"id":"2fd273f38abc04c6","fromNode":"96d11516ade3a3b1","fromSide":"bottom","toNode":"746caff43cdb4667","toSide":"top","color":"4"},
+		{"id":"a5800c0c4ee8ed3f","fromNode":"96d11516ade3a3b1","fromSide":"bottom","toNode":"4d197c712a48d969","toSide":"top","color":"4"},
+		{"id":"970d0b7b74543eb3","fromNode":"96d11516ade3a3b1","fromSide":"left","toNode":"9b13813dabf65202","toSide":"bottom","color":"4"},
+		{"id":"18e985c59707d222","fromNode":"96d11516ade3a3b1","fromSide":"right","toNode":"357f5f069153fb15","toSide":"left","color":"4"},
+		{"id":"1cdd969ef011846e","fromNode":"9b13813dabf65202","fromSide":"left","toNode":"f4c8e862bd4e70ef","toSide":"bottom","color":"6"},
+		{"id":"1329105dfeff7263","fromNode":"38766236ed45f21a","fromSide":"top","toNode":"7cfb37356592d2f7","toSide":"bottom","color":"6"},
+		{"id":"28102cc4db4db667","fromNode":"98ece93f31269d8b","fromSide":"right","toNode":"5c61bdba6384200d","toSide":"left","color":"4"}
+	]
+}
