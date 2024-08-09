@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"f93ea8f9dd471f88","type":"group","x":-720,"y":-580,"width":1140,"height":820,"color":"4","label":"HOST"},
+		{"id":"5e1b55ba06d1c55a","x":-680,"y":80,"width":300,"height":100,"color":"2","type":"text","text":"Namespace: `orange`\nIP address: `192.168.15.3`\nName interface: `veth-orange`"},
+		{"id":"bfbeb44a9ebef995","type":"text","text":"Namespace: `red`\nIP address: `192.168.15.2`\nName interface: `veth-blue`","x":100,"y":-540,"width":300,"height":100,"color":"5"},
+		{"id":"3aef81abc504bfb5","type":"text","text":"Namespace: `red`\nIP address: `192.168.15.1`\nName interface: `veth-red`","x":-680,"y":-540,"width":280,"height":100,"color":"1"},
+		{"id":"e90e55ce170ddf85","x":100,"y":80,"width":300,"height":100,"color":"6","type":"text","text":"Namespace: `violet`\nIP address: `192.168.15.4`\nName interface: `veth-violet`"},
+		{"id":"0c7bb56c81191b70","x":-320,"y":-380,"width":340,"height":360,"color":"#efe6e6","type":"text","text":"Network\n\nName: `v-net-0`\nIP (indise): `192.168.15.0`\n\nInterfaces: \n1. `veth-red-br`\n2. `veth-blue-br`\n3. `veth-orange-br`\n4. `veth-violet-br`\n\nConnect to host via: `192.168.15.5`"}
+	],
+	"edges":[
+		{"id":"38db91c300d0193a","fromNode":"0c7bb56c81191b70","fromSide":"left","toNode":"3aef81abc504bfb5","toSide":"bottom","color":"1","label":"veth-red-br ->\nveth-red"},
+		{"id":"95dc26b9c9428ae6","fromNode":"0c7bb56c81191b70","fromSide":"right","toNode":"bfbeb44a9ebef995","toSide":"bottom","color":"5","label":"veth-blue-br ->\nveth-blue"},
+		{"id":"4c5fcc857ce5592c","fromNode":"0c7bb56c81191b70","fromSide":"left","toNode":"5e1b55ba06d1c55a","toSide":"top","color":"2","label":"veth-orange-br ->\nveth-orange "},
+		{"id":"c55dcfdbf9b9a557","fromNode":"0c7bb56c81191b70","fromSide":"right","toNode":"e90e55ce170ddf85","toSide":"top","color":"6","label":"veth-violet-br ->\nveth-violet"}
+	]
+}
